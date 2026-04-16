@@ -7,7 +7,7 @@
     font-family="system-ui, -apple-system, Segoe UI, Arial, sans-serif"
     font-size="16"
     letter-spacing="4"
-    fill="#0d0d0e">
+    fill="#ffffff">
     BACKEND
   </text>
   <rect x="200" y="24" width="40" height="2" fill="#f46321" />
